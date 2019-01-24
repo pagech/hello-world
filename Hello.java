@@ -5,4 +5,7 @@ public class Hello{
 	public static void print1() {
 		System.out.println("1");
 	}
+	public static void print2() {
+		System.out.println("2");
+	}
 }
