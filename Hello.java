@@ -8,4 +8,7 @@ public class Hello{
 	public static void print2() {
 		System.out.println("2");
 	}
+	public static void print3() {
+		System.out.println("3");
+	}
 }
